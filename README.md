@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @beattytyler
+- 🌱 I’m currently learning Python, Java
+- 📫 How to reach me tyler.beatty.j@gmail.com
